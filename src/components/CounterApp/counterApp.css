@@ -1,0 +1,26 @@
+h1{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 200px;
+    margin: 10px;
+    height: 40px;
+    background-color: pink;
+    border-radius: 10px;
+    font-size: 25px;
+    border: 2px solid black;
+    cursor: pointer;
+}

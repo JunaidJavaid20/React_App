@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mainContainer h1{
+    font-size: 50px;
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+.mainContainer p{
+    font-size: 30px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+#text{
+    width: 320px;
+    padding-left: 5px;
+    margin-left: 12px;
+    margin-top: 60px;
+    background-color: beige;
+    border: 2px solid black;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.btn1{
+    width: 357px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.first{
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 24px;
+    background-color: green;
+    cursor: pointer;
+}
+.addSMDel{
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: rgb(209, 100, 100);
+    cursor: pointer;
+}
+.clrRes{
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 24px;
+    background-color: yellow;
+    cursor: pointer;
+}
